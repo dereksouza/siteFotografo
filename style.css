@@ -87,7 +87,7 @@ body{
 }
 
 #MainHomeImg{
-    background-image: url(/img/picMain.jpg);
+    background-image: url(./img/picMain.jpg);
     height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
